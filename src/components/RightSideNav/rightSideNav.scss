@@ -1,0 +1,15 @@
+.rightSideNavContainer {
+  width: 420px;
+  min-width: 420px;
+  height: calc(100vh - 60px);
+  color: white;
+  box-shadow: 0px 3px 6px #00000029;
+  background-color: white;
+  right: 0;
+  position: absolute;
+}
+
+.rightSideNavContainer svg {
+  color: #505f78;
+  font-size: 33px;
+}
